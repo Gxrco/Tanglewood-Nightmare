@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ControlWorld
+comment1.params=
+comment1.target=ControlWorld()
+comment1.text=\r\n\ This\ initial\ world\ constructor\ starts\ the\ control\ of\ changing\ worlds\ for\ a\ 3x3\ grid\ of\ worlds.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=wide\ high\ cellsize
+comment3.target=ControlWorld(int,\ int,\ int)
+comment4.params=world
+comment4.target=void\ delaySpawning(greenfoot.World)
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=6
